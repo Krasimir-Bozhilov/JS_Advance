@@ -1,7 +1,7 @@
 function sumOfNumbers(n,m){
     let sum=0;
-    let nToInt=Number.parseInt(n);
-    let mToInt=Number.parseInt(m);
+    let nToInt=Number(n);
+    let mToInt=Number(m);
     for (let i = nToInt; i <=mToInt; i++) {
         sum+=i;
     }
