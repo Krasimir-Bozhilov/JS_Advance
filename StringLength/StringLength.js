@@ -4,4 +4,4 @@ function stringLength(a,b,c){
     console.log(sumOfLength);
     console.log(averageSum);
 }
-stringLength('pasta', '5', '22.3')
+stringLength('sads', 'iasdm', 'csde')
