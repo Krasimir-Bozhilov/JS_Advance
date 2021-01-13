@@ -7,3 +7,4 @@ function sumOfNumbers(n,m){
     }
     console.log(sum);
 }
+sumOfNumbers(2,10)
