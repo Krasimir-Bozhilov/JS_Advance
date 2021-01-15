@@ -11,5 +11,4 @@ function solve(n, k) {
         console.log(result);
 
 }
-solve(6, 3
-)
+solve(6, 3)
