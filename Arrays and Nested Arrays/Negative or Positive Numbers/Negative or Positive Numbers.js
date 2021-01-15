@@ -12,4 +12,4 @@ function solve(input){
     }
 
 }
-solve([3, -2, 0, -1]);
+solve([3,3,3,3,3]);
