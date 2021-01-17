@@ -12,8 +12,7 @@ function solve(input,separator) {
     console.log(array);
 
 
-}
-solve(['How about no?',
+}solve(['How about no?',
         'I',
         'will',
         'not',
